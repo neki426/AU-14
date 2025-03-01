@@ -1,8 +1,8 @@
 ﻿- type: entity
   parent: [ CMBaseWeaponGun, BaseItem, RMCBaseAttachableHolder ]
   id: RMCWeaponFlamer
-  name: M34 incinerator unit
-  description: M34 incinerator unit has proven to be one of the most effective weapons at clearing out soft-targets. This is a weapon to be feared and respected as it is quite deadly.
+  name: M240A1 incinerator unit
+  description: M240A1 incinerator unit has proven to be one of the most effective weapons at clearing out soft-targets. This is a weapon to be feared and respected as it is quite deadly.
   components:
   - type: Sprite
     sprite: _RMC14/Objects/Weapons/Guns/Flamethrower/m34.rsi
@@ -86,7 +86,7 @@
   parent: BaseItem
   id: RMCTankFlamer
   name: incinerator tank
-  description: A fuel tank used to store fuel for use in the M34 incinerator unit. Handle with care.
+  description: A fuel tank used to store fuel for use in the M240A1 incinerator unit. Handle with care.
   components:
   - type: Sprite
     sprite: _RMC14/Objects/Weapons/Guns/Ammunition/flamethrower.rsi
@@ -125,8 +125,8 @@
 - type: entity
   parent: RMCGunCaseBase
   id: RMCCaseFlamer
-  name: M34 incinerator case
-  description: A gun case containing the M34 incinerator unit. It does come loaded, but you'll still have to find extra tanks as you go.
+  name: M240A1 incinerator case
+  description: A gun case containing the M240A1 incinerator unit. It does come loaded, but you'll still have to find extra tanks as you go.
   components:
   - type: Storage
     maxItemSize: Huge
