@@ -231,8 +231,8 @@
 - type: entity
   parent: RMCSmartGunPMC
   id: RMCSmartGunWhiteOut
-  name: "ML79A 'Breaker' smart gun"
-  description: The actual firearm in the 4-piece ML79A Smartgun System, modified for extra power. If you have this, you're about to bring some serious pain to anyone in your way. You may toggle firing restrictions by using a special action.
+  name: "M56T'Breaker' smart gun"
+  description: The actual firearm in the 4-piece M56T Smartgun System, modified for extra power. If you have this, you're about to bring some serious pain to anyone in your way. You may toggle firing restrictions by using a special action.
   suffix: Whiteout
   components:
   - type: RMCSelectiveFire
